@@ -1,12 +1,15 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - j-sprague
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - j-sprague/overtrack-discord
+  - j-sprague/TournamentThumbnailMaker
+  - j-sprague/WellnessTracker
+  - j-sprague/emessageme
+  - j-sprague/android-tip-calc
+  - j-sprague/computervision-project-ssbu
+  - j-sprague/Wordle
+  - j-sprague/HTML-Project
+  - j-sprague/SmashOverlayEditor
+  - j-sprague/Mittens-Website
+  - j-sprague/Image-Processing-Assignment-1
