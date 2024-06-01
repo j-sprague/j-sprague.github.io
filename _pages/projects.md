@@ -2,11 +2,11 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: List of my projects, including projects completed for coursework and personal side projects.
 nav: true
 nav_order: 1
-display_categories: [work, fun]
-horizontal: false
+display_categories: [coursework, personal]
+horizontal: true
 ---
 
 <!-- pages/projects.md -->
