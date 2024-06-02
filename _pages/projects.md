@@ -6,7 +6,7 @@ description: List of my projects, including projects completed for coursework an
 nav: true
 nav_order: 1
 display_categories: [coursework, personal]
-horizontal: true
+horizontal: false
 ---
 
 <!-- pages/projects.md -->
