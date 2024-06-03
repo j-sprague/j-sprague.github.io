@@ -4,8 +4,8 @@
     "label": "",
     "image": "",
     "email": "james.sprague53@gmail.com",
-    "portfolio": "https://j-sprague.github.io/",
-    "linkedin": "www.linkedin.com/in/j-sprague"
+    "portfolio": "j-sprague.github.io",
+    "linkedin": "linkedin.com/in/j-sprague"
   },
   "education": [
     {
@@ -32,16 +32,6 @@
       ]
     },
     {
-      "name": "Foundational Concepts",
-      "keywords": [
-        "Agile-Scrum framework",
-        "Object-Oriented Programming",
-        "RDBMS",
-        "Static Analysis Techniques",
-        "Mobile App Development"
-      ]
-    },
-    {
       "name": "Proficiency",
       "keywords": [
         "Git",
@@ -53,13 +43,23 @@
         "Flask",
         "Android Studio"
       ]
+    },
+    {
+      "name": "Foundational Concepts",
+      "keywords": [
+        "Agile-Scrum framework",
+        "Object-Oriented Programming",
+        "RDBMS",
+        "Static Analysis Techniques",
+        "Mobile App Development"
+      ]
     }
   ],
   "work": [
     {
       "name": "Publix",
       "position": "Bakery Clerk",
-      "startDate": "2020-09-11",
+      "startDate": "2020",
       "endDate": "present",
       "summary": "Gastonia, NC",
       "highlights": ["Provided premiere customer service.","Assisted customers by answering questions, giving suggestions, and taking special orders.","Maintained the sales floor to products on store shelves."]
@@ -74,7 +74,8 @@
         "Organized how all application data was stored in the database, ensuring that data is stored consistently and accessed correctly",
         "Communicated with rest of the development team through daily scrum meetings"
     ],
-      "startDate": "Fall 2023",
+      "startDate": "Fall",
+      "endDate": "2023",
       "url": "https://example.com"
     },
     {
@@ -84,7 +85,8 @@
         "Developed a program that uses an object-detection algorithm to gather data about what is happening in a fighting game match", 
         "Trained an object-detection model to detect characters on the screen of a fighting game match, using a training set consisting of hundreds of images"
     ],
-      "startDate": "Fall 2023",
+      "startDate": "Fall",
+      "endDate": "2023",
       "url": "https://example.com"
     },
     {
@@ -95,7 +97,8 @@
         "Conducted usability tests with users who would be interested in the application",
         "Analyzed usability test and survey results to find how to make the prototype easy to navigate for as many users as possible"
     ],
-      "startDate": "Spring 2023",
+      "startDate": "Spring",
+      "endDate": "2023",
       "url": "https://example.com"
     }
   ]
