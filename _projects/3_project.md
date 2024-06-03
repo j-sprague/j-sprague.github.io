@@ -2,7 +2,6 @@
 layout: page
 title: Tournament Thumbnail Maker
 description: Python Flask website that can generate thumbnails for Smash Ultimate tournament videos.
-img: assets/img/thumbnail.PNG
 importance: 3
 category: personal
 ---
