@@ -3,7 +3,7 @@ layout: page
 title: How To Make an Android App Tutorial
 description: Technical writing guide to developing your first Android app
 img:
-importance: 3
+importance: 4
 category: coursework
 ---
 

@@ -3,7 +3,7 @@ layout: page
 title: Smash Match Analyzer
 description: Program that analyzes fighting game match with YOLOv8 Model Detection 
 img: assets/img/computervision-icon.PNG
-importance: 1
+importance: 5
 category: coursework
 ---
 

@@ -3,7 +3,7 @@ layout: page
 title: Wellness Tracker
 description: Android fitness tracking app using Room API to store data and AnyChart for line chart visualizations.
 img: assets/img/wellness3.PNG
-importance: 1
+importance: 2
 category: coursework
 ---
 

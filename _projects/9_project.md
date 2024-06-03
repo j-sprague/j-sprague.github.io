@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Consults with Results
-description: Command-line version of Wordle, along with an algorithm that helps find the daily Wordle's answer
+description: Web application for creating meetings
 img: assets/img/consults.PNG
 importance: 3
 category: coursework

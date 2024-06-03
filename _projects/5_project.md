@@ -3,7 +3,7 @@ layout: page
 title: EMessageMe
 description: Android Email-Like Messaging app powered by Firebase
 img: assets/img/emessageme2.PNG
-importance: 2
+importance: 1
 category: coursework
 ---
 
