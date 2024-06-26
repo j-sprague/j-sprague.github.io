@@ -4,8 +4,8 @@
     "label": "",
     "image": "",
     "email": "james.sprague53@gmail.com",
-    "portfolio": "<a href='j-sprague.github.io'>j-sprague.github.io</a>",
-    "linkedin": "<a href='linkedin.com/in/j-sprague'>linkedin.com/in/j-sprague</a>"
+    "portfolio": "<a href='https://j-sprague.github.io'>j-sprague.github.io</a>",
+    "linkedin": "<a href='https://linkedin.com/in/j-sprague'>linkedin.com/in/j-sprague</a>"
   },
   "education": [
     {
@@ -16,7 +16,7 @@
       "studyType": "B.S.",
       "startDate": "2020",
       "endDate": "2024",
-      "courses": ["GPA: 3.70","Dean's List, Spring 2024"]
+      "courses": ["GPA: 3.71","Honors: Magna Cum Laude"]
     }
   ],
   "skills": [
@@ -29,6 +29,18 @@
         "JavaScript",
         "HTML/CSS",
         "SQL"
+      ]
+    },
+    {
+      "name": "Topics",
+      "keywords": [
+        "Agile-Scrum framework",
+        "Object-Oriented Programming",
+        "RDBMS",
+        "Static Analysis Techniques",
+        "Image Recognition",
+        "Heuristic Design Analysis",
+        "Usability Testing"
       ]
     },
     {
@@ -50,18 +62,6 @@
         "Adobe Creative Cloud",
         "Jupyter Notebook",
         "YOLOv8"
-      ]
-    },
-    {
-      "name": "Foundational Concepts",
-      "keywords": [
-        "Agile-Scrum framework",
-        "Object-Oriented Programming",
-        "RDBMS",
-        "Static Analysis Techniques",
-        "Image Recognition",
-        "Heuristic Design Analysis",
-        "Usability Testing"
       ]
     }
   ],
